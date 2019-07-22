@@ -5,25 +5,7 @@
 
 > A simple weather app using React, Bootstrap and a weather API from OpenWeatherMaps
 
-### 🏠 [Homepage](https://weatherappreact-git-master.sthoyre.now.sh/)
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
+### 🏠 [Check it out!](https://weatherappreact-git-master.sthoyre.now.sh/)
 
 ## Author
 
@@ -31,9 +13,3 @@ npm run test
 
 * Github: [@thorski1](https://github.com/thorski1)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
